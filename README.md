@@ -4,7 +4,7 @@ Demonstration of Aran for Benevol2024
 
 ```sh
 npm install
-ANALYSIS=./shadow.mjs no de --import ./setup.mjs ./age.mjs 1989
+ANALYSIS=./shadow.mjs node --import ./setup.mjs ./age.mjs 1989
 ```
 
 ```
